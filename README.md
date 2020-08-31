@@ -1,12 +1,12 @@
-# early_app
+# It's a random user name generator that I c/p calm down
 
-An early Flutter application.
+An early Flutter application. One of many others when I don't smash my head to the wall lol
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for... like... any Flutter application. 🤷
 
-A few resources to get you started if this is your first Flutter project:
+A few resources to get you started if this is your first Flutter project (It is also mine but lol):
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
