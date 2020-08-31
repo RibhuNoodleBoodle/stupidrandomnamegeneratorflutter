@@ -1,4 +1,4 @@
-# It's a random user name generator that I c/p calm down
+# It's a random user name generator that I c/p. calm down!
 
 An early Flutter application. One of many others when I don't smash my head to the wall lol
 
@@ -6,7 +6,7 @@ An early Flutter application. One of many others when I don't smash my head to t
 
 This project is a starting point for... like... any Flutter application. 🤷
 
-A few resources to get you started if this is your first Flutter project (It is also mine but lol):
+A few resources to get you started if this is your first Flutter project (It is also mine but lol 😂):
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
